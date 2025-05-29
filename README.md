@@ -15,3 +15,9 @@
 [Module 7: Working with Module](https://www.notion.so/Module-7-Working-with-Modules-1d5ee7f3a893806f907ae7449640d95e?pvs=4)
 
 [Module 8: NumPy Basics](https://www.notion.so/Module-8-NumPy-Basics-1d5ee7f3a8938034a106d06a20fe148a?pvs=4)
+
+[Module 9: Pandas Basics](https://www.notion.so/Module-9-Pandas-Basics-1d5ee7f3a8938045b302dbec4a3c8a8d?pvs=4)
+
+[Module 10: Data Celeaning in Pandas](https://www.notion.so/Module-10-Data-Cleaning-in-Pandas-1d5ee7f3a89380b3b159eb91614bb797?pvs=4)
+
+[Module 8: Data Transformation in Pandas](https://www.notion.so/Module-11-Data-Transformation-in-Pandas-1d5ee7f3a8938044bc86d305ad40a011?source=copy_link)
