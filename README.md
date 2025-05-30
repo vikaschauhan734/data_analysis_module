@@ -20,4 +20,10 @@
 
 [Module 10: Data Celeaning in Pandas](https://www.notion.so/Module-10-Data-Cleaning-in-Pandas-1d5ee7f3a89380b3b159eb91614bb797?pvs=4)
 
-[Module 8: Data Transformation in Pandas](https://www.notion.so/Module-11-Data-Transformation-in-Pandas-1d5ee7f3a8938044bc86d305ad40a011?source=copy_link)
+[Module 11: Data Transformation in Pandas](https://www.notion.so/Module-11-Data-Transformation-in-Pandas-1d5ee7f3a8938044bc86d305ad40a011?source=copy_link)
+
+[Module 12: Data visualization using Matplotlib/ Seaborn](https://www.notion.so/Module-12-Data-visualization-using-Matplotlib-Seaborn-1d5ee7f3a89380bfbf15d28aea589b4a?source=copy_link)
+
+[Module 13: Integration with Databases](https://www.notion.so/Module-13-Integration-with-Databases-1d5ee7f3a89380229ef9fcbb4da90110?source=copy_link)
+
+[Module 14: Introduction to the Statistical Analysis](https://www.notion.so/Module-14-Introduction-to-the-Statistical-Analysis-1d5ee7f3a8938024a1bcfa67063b8437?source=copy_link)
