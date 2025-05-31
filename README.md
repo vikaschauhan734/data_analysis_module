@@ -27,3 +27,9 @@
 [Module 13: Integration with Databases](https://www.notion.so/Module-13-Integration-with-Databases-1d5ee7f3a89380229ef9fcbb4da90110?source=copy_link)
 
 [Module 14: Introduction to the Statistical Analysis](https://www.notion.so/Module-14-Introduction-to-the-Statistical-Analysis-1d5ee7f3a8938024a1bcfa67063b8437?source=copy_link)
+
+[Module 15: Descriptive Statistics](https://www.notion.so/Module-15-Descriptive-Statistics-1d5ee7f3a89380b8be69e31147e380ce?source=copy_link)
+
+[Module 16: Probability Distributions](https://www.notion.so/Module-16-Probability-Distributions-1d5ee7f3a8938007af07f8d709d92643?source=copy_link)
+
+[Module 17: Inferential Statistics](https://www.notion.so/Module-17-Inferential-Statistics-1d5ee7f3a89380238bbfc56d84b4a857?source=copy_link)
