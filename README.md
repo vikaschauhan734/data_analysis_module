@@ -33,3 +33,15 @@
 [Module 16: Probability Distributions](https://www.notion.so/Module-16-Probability-Distributions-1d5ee7f3a8938007af07f8d709d92643?source=copy_link)
 
 [Module 17: Inferential Statistics](https://www.notion.so/Module-17-Inferential-Statistics-1d5ee7f3a89380238bbfc56d84b4a857?source=copy_link)
+
+[Module 18: Introduction to SQL](https://www.notion.so/Module-18-Introduction-to-SQL-1d5ee7f3a89380f8af52e50935941b2a?source=copy_link)
+
+[Module 19: SQL Select Queries](https://www.notion.so/Module-19-SQL-Select-Queries-1d5ee7f3a893809197b1e80f9f912446?source=copy_link)
+
+[Module 20: Aggregation Functions](https://www.notion.so/Module-20-Aggregation-Functions-1d5ee7f3a8938099a3afd47514bc4767?source=copy_link)
+
+[Module 21: Working with Joins](https://www.notion.so/Module-21-Working-with-Joins-1d5ee7f3a89380859883d7cf269307c6?source=copy_link)
+
+[Module 22: Data Manipulation](https://www.notion.so/Module-22-Data-Manipulation-1d5ee7f3a8938012a619e5d369785da3?source=copy_link)
+
+[Module 23: Additional SQL function](https://www.notion.so/Module-23-Additional-SQL-function-1d5ee7f3a893801f8191e4acd9a6285e?source=copy_link)
